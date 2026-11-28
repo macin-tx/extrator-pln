@@ -1,5 +1,5 @@
 # Extração de palavras e de classes gramaticais
-Este notebook contém uma ferramenta para extração e identificação de substantivos em arquivos PDF produzida para minha primeira tarefa da IC pela Universidade federal de Sergipe.
+Este notebook contém uma ferramenta para extração e identificação de substantivos em arquivos PDF produzida para a primeira tarefa da minha IC pela Universidade federal de Sergipe.
 
 O problema proposto foi:
 
@@ -14,10 +14,10 @@ Para usar a ferramenta, basta colocar os seus próprios PDFs na pasta de entrada
 3. Busca e filtragem de substantivos. OBS: O código foi aprimorado para fazer a busca de outras classes gramaticais ou de termos (frequência).
 
 ## Como usar
-1. Coloque o(s) pdf(s) na pasta `extractor/pdfs`. A pasta `extractor/results` é gerada automaticamente.
-2. Preencha o forms de busca.
+1. Coloque o(s) pdf(s) na pasta `extractor/pdfs`. A pasta `extractor/resultados` é gerada automaticamente.
+2. Preencha o formulário de busca.
 3. Depois vá no menu superior, clique em Ambiente de execução > Executar tudo (ou apertar `Ctrl + F9`).
-4. Resultado é exportado na tela e vai para a pasta `extractor/results` 
+4. Resultado é exportado na tela e vai para a pasta `extractor/resultados` 
 
 
 

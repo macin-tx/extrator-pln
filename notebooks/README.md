@@ -5,7 +5,7 @@ O problema proposto foi:
 
 > Ler arquivos PDF no Google Colab, localizar e extrair classes gramaticais específicas, como substantivos. Para tanto, fazer isso combinando bibliotecas de extração de texto com ferramentas de Processamento de Linguagem Natural (PLN) em Python. Os termos extraídos devem ser salvos em uma planilha (Excel/CSV), de forma que a execução seja feita sem trabalho manual.
 
-Para usar a ferramenta, basta colocar os seus próprios PDFs na pasta de entrada do Google Drive. Veja [Como usar] (#como-usar)
+Para usar a ferramenta, basta colocar os seus próprios PDFs na pasta de entrada do Google Drive. Veja [Como usar](#como-usar)
 
 ---
 ## O que a ferramenta faz
